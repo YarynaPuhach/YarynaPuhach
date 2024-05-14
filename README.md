@@ -11,15 +11,9 @@ I'm always open to collaboration and discussing ideas. Reach out to me via:
 - Email: yarynapuhach.dev@gmail.com
 - LinkedIn: [Yaryna Puhach](https://www.linkedin.com/in/yaryna-puhach-029023269/)
 
-### GitHub Stats
+Here's a list of technologies I have experience with and I'm interested in:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YarynaPuhach&show_icons=true)
-
-### Programming Languages
-
-Below is my programming language usage statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarynaPuhach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 <!--
 **YarynaPuhach/YarynaPuhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
