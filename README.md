@@ -1,17 +1,48 @@
 # Hello, I'm Yaryna Puhach! 👋
 
-### About Me
-
+## About Me
 I'm a student from Ukraine, interested in software and web development. I love learning new technologies and improving my skills.
 
-### Contact
-
+## Contact
 I'm always open to collaboration and discussing ideas. Reach out to me via:
+- **Email**: yarynapuhach.dev@gmail.com
+- **LinkedIn**: [Yaryna Puhach](https://www.linkedin.com/in/yaryna-puhach/)
+
+## Tech-Stack
+- **Languages**: TypeScript, JavaScript (ES2015 - 2019)
+- **Front-End**: React, Redux, HTML5, CSS3, Sass (SCSS), BEM
+- **Back-End**: Node.js, Express
+- **UI Libraries**: Bootstrap, Bulma, Material UI
+- **APIs**: Fetch, REST API, Axios
+- **Tools**: NPM, Webpack, Gulp, Git/GitHub
+- **Database**: SQL, Sequelize
+- **Other**: Regex
+
+## Projects
+### ✅ ToDo App
+**Technologies**: React, TypeScript, REST API, HTML, SCSS  
+**Description**: Minimalist task management application. Add, delete, and manage your todos. Seamless interaction with a server.
+- **[ToDo App - DEMO](https://yarynapuhach.github.io/react_todo-app-with-api/)**
+- **[ToDo App - REPO](https://github.com/YarynaPuhach/TodoApp)**
+
+### 📱💻🖥️ Bang & Olufsen ® - Responsive Landing Page
+**Technologies**: HTML, SCSS, RWD, BEM, JavaScript  
+**Description**: A simple, yet elegantly designed responsive landing page tailored for the tech brand "Bang & Olufsen".
+- **[Bang&Olufsen ® Landing Page - DEMO](https://yarynapuhach.github.io/layout_miami/)**
+- **[Bang&Olufsen ® Landing Page - REPO](https://github.com/YarynaPuhach/Bang-Olufsen)**
+
+### 🌐🛒👨‍👩‍👧‍👦 Nice Gadget Store ® - Group effort, in progress
+**Technologies**: React, React Router, MUI, RWD, TypeScript, Node.js, Express, Axios, Clerk, Sequelize, PostgreSQL  
+**Description**: E-commerce platform developed as a group project.
+- **[Nice Gadget Store - DEMO](#)**
+- **[Nice Gadget Store - REPO](#)**
+
+
 
 - Email: yarynapuhach.dev@gmail.com
 - LinkedIn: [Yaryna Puhach](https://www.linkedin.com/in/yaryna-puhach-029023269/)
 
-Here's a list of technologies I have experience with and I'm interested in:
+
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
