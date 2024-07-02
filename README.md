@@ -34,7 +34,7 @@ I'm always open to collaboration and discussing ideas. Reach out to me via:
 ### 🌐🛒👨‍👩‍👧‍👦 Nice Gadget Store ® - Group effort
 **Technologies**: React, React Router, MUI, RWD, TypeScript, Node.js, Express, Axios, Clerk, Sequelize, PostgreSQL  
 **Description**: E-commerce platform developed as a group project.
-- **[Nice Gadget Store - REPO]([#](https://github.com/MaPaJBY/phone_catalog_front))**
+- **[Nice Gadget Store - REPO](https://github.com/MaPaJBY/phone_catalog_front)**
 
 
 
