@@ -31,11 +31,10 @@ I'm always open to collaboration and discussing ideas. Reach out to me via:
 - **[Bang&Olufsen ® Landing Page - DEMO](https://yarynapuhach.github.io/layout_miami/)**
 - **[Bang&Olufsen ® Landing Page - REPO](https://github.com/YarynaPuhach/Bang-Olufsen)**
 
-### 🌐🛒👨‍👩‍👧‍👦 Nice Gadget Store ® - Group effort, in progress
+### 🌐🛒👨‍👩‍👧‍👦 Nice Gadget Store ® - Group effort
 **Technologies**: React, React Router, MUI, RWD, TypeScript, Node.js, Express, Axios, Clerk, Sequelize, PostgreSQL  
 **Description**: E-commerce platform developed as a group project.
-- **[Nice Gadget Store - DEMO](#)**
-- **[Nice Gadget Store - REPO](#)**
+- **[Nice Gadget Store - REPO]([#](https://github.com/MaPaJBY/phone_catalog_front))**
 
 
 
